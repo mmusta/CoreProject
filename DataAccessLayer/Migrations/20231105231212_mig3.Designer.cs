@@ -13,7 +13,7 @@ namespace DataAccessLayer.Migrations
 {
     [DbContext(typeof(Context))]
     [Migration("20231105231212_mig3")]
-    partial class mig3
+    partial class Mig3
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
